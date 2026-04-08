@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "uskVZS6S0eI1YBtciE3Jk"
+uri = "file://artifacts/fuelflow-mobile/assets/images/icon.png"
+type = "image"
+title = "generated_image"
